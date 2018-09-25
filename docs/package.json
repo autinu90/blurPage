@@ -1,0 +1,15 @@
+{
+  "name": "blurpage",
+  "version": "1.0.0",
+  "description": "cssPractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://autinu90.github.io/blurPage/"
+  },
+  "author": "austinUnderwood",
+  "license": "MIT"
+}
